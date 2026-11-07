@@ -28,7 +28,7 @@ java Main
 ```
 
 ## Screenshot Luaran
-![Luaran program](Screenshot 2026-11-08 010123.png)
+![Luaran program](screenshot1.png)
 
 ## Pemetaan Persyaratan
 | No | Konsep | Lokasi |
