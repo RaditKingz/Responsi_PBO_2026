@@ -1,5 +1,3 @@
-package Responsi;
-
 public class PompaSolar extends Pompa implements Pembayaran, Laporan {
 
     private int kadarSulfurPpm;

@@ -1,5 +1,3 @@
-package Responsi;
-
 public class PompaPertamax extends Pompa implements Pembayaran, Laporan {
 
     private double diskonPersen;

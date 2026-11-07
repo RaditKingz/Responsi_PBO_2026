@@ -1,5 +1,3 @@
-package Responsi;
-
 public class PompaPertalite extends Pompa implements Pembayaran {
 
     private double batasLiterPerTransaksi;

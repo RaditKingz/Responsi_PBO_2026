@@ -1,5 +1,3 @@
-package Responsi;
-
 import java.util.Locale;
 
 public abstract class Pompa {
