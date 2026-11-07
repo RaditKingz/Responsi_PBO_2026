@@ -1,9 +1,9 @@
 # Sistem SPBU - Responsi Akhir Praktikum PBO
 
 ## Identitas
-- **Nama** : [ISI NAMA]
-- **NIM** : [ISI NIM]
-- **Tema (digit terakhir NIM)** : SPBU (digit 2 dan 3)
+- **Nama** : Raditya Firmansyah
+- **NIM** : H1D025102
+- **Tema** : SPBU (digit 2 dan 3)
 - **Jurusan** : Informatika, Fakultas Teknik, Universitas Jenderal Soedirman
 
 ## Deskripsi Singkat
